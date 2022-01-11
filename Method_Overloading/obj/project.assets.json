@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "AzurePowershell/1.0.0": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "AzurePowershell/1.0.0": {
+      "sha512": "ybxPueeV9vgcQSD4K7nikIj+5W2ZCegHv3p7Sj67irnyBM/vEDtqqMnSqeQ6O8QwSrqSiWtl4S6VA+WqGcPMsA==",
+      "type": "package",
+      "path": "azurepowershell/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "azure-powershell.5.5.0.msi",
+        "azurepowershell.1.0.0.nupkg.sha512",
+        "azurepowershell.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "AzurePowershell >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rnv84379\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rnv84379\\source\\repos\\Method_Overloading\\Method_Overloading\\Method_Overloading.csproj",
+      "projectName": "Method_Overloading",
+      "projectPath": "C:\\Users\\rnv84379\\source\\repos\\Method_Overloading\\Method_Overloading\\Method_Overloading.csproj",
+      "packagesPath": "C:\\Users\\rnv84379\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rnv84379\\source\\repos\\Method_Overloading\\Method_Overloading\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rnv84379\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "Https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "AzurePowershell": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
