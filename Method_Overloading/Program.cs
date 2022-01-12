@@ -19,7 +19,7 @@ namespace Method_Overloading
 
             var thirdAnswer = Add(1,100, false);
 
-            Console.WriteLine($"int add: {answer} decimal add: {decimalAnswer}");
+            Console.WriteLine($"int add: {answer}; decimal add: {decimalAnswer}");
             Console.WriteLine(thirdAnswer);
 
 
@@ -41,6 +41,7 @@ namespace Method_Overloading
 
         public static string Add(int num1, int num2, bool isValid)
         {
+            
             var numSum = num1 + num2;
 
             if (numSum == 1 && isValid == true)
@@ -60,6 +61,8 @@ namespace Method_Overloading
                 return numSum.ToString();
 
             }
+
         }
+
     }
 }

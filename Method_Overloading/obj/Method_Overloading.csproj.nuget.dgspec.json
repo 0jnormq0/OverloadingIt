@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rnv84379\\source\\repos\\Method_Overloading\\Method_Overloading\\Method_Overloading.csproj": {}
+    "C:\\Users\\rnv84379\\repos\\Method_Overloading\\Method_Overloading\\Method_Overloading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rnv84379\\source\\repos\\Method_Overloading\\Method_Overloading\\Method_Overloading.csproj": {
+    "C:\\Users\\rnv84379\\repos\\Method_Overloading\\Method_Overloading\\Method_Overloading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rnv84379\\source\\repos\\Method_Overloading\\Method_Overloading\\Method_Overloading.csproj",
+        "projectUniqueName": "C:\\Users\\rnv84379\\repos\\Method_Overloading\\Method_Overloading\\Method_Overloading.csproj",
         "projectName": "Method_Overloading",
-        "projectPath": "C:\\Users\\rnv84379\\source\\repos\\Method_Overloading\\Method_Overloading\\Method_Overloading.csproj",
+        "projectPath": "C:\\Users\\rnv84379\\repos\\Method_Overloading\\Method_Overloading\\Method_Overloading.csproj",
         "packagesPath": "C:\\Users\\rnv84379\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rnv84379\\source\\repos\\Method_Overloading\\Method_Overloading\\obj\\",
+        "outputPath": "C:\\Users\\rnv84379\\repos\\Method_Overloading\\Method_Overloading\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rnv84379\\AppData\\Roaming\\NuGet\\NuGet.Config",
